@@ -1,5 +1,6 @@
-### Olá! 😁
-📚 Estudando TypeScript e React!
+### Hello! My name is Rodrigo, I work as a software developer since 2022. 😁
+My interests are front-end, React and React native, but I have also worked with C#, VB.NET and SQL Server.
+
 <div align="center">
   <a href="https://github.com/RodrigoAHB">
   <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=RodrigoAHB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
